@@ -1,1 +1,2 @@
 import depot
+print smco
